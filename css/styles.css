@@ -1,0 +1,13 @@
+nav {
+  background-color: yellow;
+  padding: 10px;
+}
+nav > h1 {
+  float: right;
+  margin-top: -40px;
+}
+
+li {
+  display: inline;
+  padding: 5px;
+}
