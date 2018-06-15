@@ -1,5 +1,9 @@
-body {
-  font-style: fantasy;
+.intro {
+  text-align: center;
+}
+
+.tropical {
+  font-family: fantasy;
 }
 
 .tropical h3 {
@@ -7,6 +11,14 @@ body {
 }
 .tropical p {
   color: #7dc410;
+}
+
+.popular {
+  font-family:sans-serif;
+}
+
+.popular h3 {
+  color: blue;
 }
 
 nav {
