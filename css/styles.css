@@ -20,10 +20,37 @@ li {
   padding: 5px;
 }
 
-.welcome {
+.tropical {
   text-align: center;
+
 }
 img {
   width: 300px;
   height: 300px;
+}
+
+.first {
+  width: 450px;
+  float: left;
+  padding: 10px 10px 10px 50px;
+}
+.second {
+  width: 450px;
+  float: right;
+  padding: 10px 10px 10px 10px;
+}
+
+footer {
+  background-color: yellow;
+}
+
+.cf::before, .cf::after {
+  content: " ";
+  display: table;
+}
+.cf::after{
+  clear: both;
+}
+.cf {
+*zoom: 1; /* for IE6 and IE7 */
 }
