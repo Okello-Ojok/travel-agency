@@ -2,8 +2,11 @@ body {
   font-style: fantasy;
 }
 
-h1, h2 {
+.tropical h3 {
   color: #f7325e;
+}
+.tropical p {
+  color: #7dc410;
 }
 
 nav {
@@ -20,10 +23,7 @@ li {
   padding: 5px;
 }
 
-.tropical {
-  text-align: center;
 
-}
 img {
   width: 300px;
   height: 300px;
