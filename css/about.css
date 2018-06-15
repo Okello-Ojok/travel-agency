@@ -1,0 +1,38 @@
+.intro {
+  text-align: center;
+}
+
+
+
+nav {
+  background-color: yellow;
+  padding: 10px;
+}
+nav > h1 {
+  float: right;
+  margin-top: -40px;
+}
+
+li {
+  display: inline;
+  padding: 5px;
+}
+
+
+
+
+
+footer {
+  background-color: yellow;
+}
+
+.cf::before, .cf::after {
+  content: " ";
+  display: table;
+}
+.cf::after{
+  clear: both;
+}
+.cf {
+*zoom: 1; /* for IE6 and IE7 */
+}
